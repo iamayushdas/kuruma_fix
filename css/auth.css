@@ -1,0 +1,34 @@
+.container{
+    margin-top: 50px;
+
+  }
+
+  .time{
+      color: grey;
+  }
+.user{
+    font-weight: bold;
+    color: black;
+}
+
+.userComment{
+    color: #000;
+}
+
+
+.replies .comment {
+    margin-top:10px;
+}
+
+.replies {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.comments{
+    margin-top: 20px;
+}
+
+#registerModal input, #loginMOdal input{
+    margin-top: 10px;
+}

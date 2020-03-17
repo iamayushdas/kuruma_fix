@@ -31,11 +31,11 @@ html {
 }
 body {
 	font-family: $font-primary;
-	background: $white;
+	background: $black;
 	font-size: 15px;
 	line-height: 1.8;
 	font-weight: 400;
-	color: lighten($black,50%);
+	color: lighten($white,50%);
 	&.menu-show {
 		overflow: hidden;
 		position: fixed;
@@ -296,7 +296,7 @@ h1, h2, h3, h4, h5,
 		content: '';
 		opacity: .6;
 		width: 50%;
-		background: $primary;
+		background: #323232;
 	}
 	.slider-text{
 		color: $white;
