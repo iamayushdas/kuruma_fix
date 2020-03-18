@@ -62,7 +62,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff; }
+  background-color: #000; }
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
@@ -8228,6 +8228,7 @@ textarea.form-control {
   font-size: 24px; }
 
 .ftco-section {
+  background-image: linear-gradient(to right ,rgb(68, 68, 68), rgb(0, 0, 0));
   padding: 9em 0;
   position: relative; }
   @media (max-width: 767.98px) {
@@ -9086,5 +9087,3 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
-
-    
