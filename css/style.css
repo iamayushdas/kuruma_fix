@@ -294,6 +294,8 @@ summary {
   display: list-item;
   cursor: pointer; }
 
+  
+
 template {
   display: none; }
 
@@ -8962,6 +8964,10 @@ textarea.form-control {
     -moz-border-radius: 2px;
     -ms-border-radius: 2px;
     border-radius: 2px; }
+
+    .number{
+      color: white;
+    }
 
 .sidebar-box {
   margin-bottom: 30px;
