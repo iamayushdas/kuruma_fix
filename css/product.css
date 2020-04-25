@@ -1,0 +1,60 @@
+.glyphicon { margin-right:5px; }
+.thumbnail
+{
+    
+    padding: inherit;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 15px;
+    background-color: #fff;
+    color: #000;
+    margin: 20px;
+}
+
+. itemss.list- grup- itemss
+{
+    float: none;
+    width: 100%;
+    background-color: #fff;
+    margin-bottom: 10px;
+}
+. itemss.list- grup- itemss:nth-of-type(odd):hover,. itemss.list- grup- itemss:hover
+{
+    background: #428bca;
+}
+
+. itemss.list- grup- itemss .list- grup-image
+{
+    margin-right: 10px;
+}
+. itemss.list- grup- itemss .thumbnail
+{
+    margin-bottom: 0px;
+}
+. itemss.list- grup- itemss .caption
+{
+    padding: 9px 9px 0px 9px;
+}
+. itemss.list- grup- itemss:nth-of-type(odd)
+{
+    background: #eeeeee;
+}
+
+. itemss.list- grup- itemss:before, . itemss.list- grup- itemss:after
+{
+    display: table;
+    content: " ";
+}
+
+. itemss.list- grup- itemss img
+{
+    float: left;
+}
+. itemss.list- grup- itemss:after
+{
+    clear: both;
+}
+.list- grup- itemss-text
+{
+    margin: 0 0 11px;
+}
